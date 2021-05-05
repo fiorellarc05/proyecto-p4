@@ -1,0 +1,46 @@
+/*Pages design*/
+
+/*body style*/
+body{
+    background: linear-gradient(to left,#FED89A,#FCA311);
+    font-family: Tahoma;
+    font-size: 18px;
+    color: #28427B;
+}
+
+/*header style*/
+.header-custom{
+    background-color: #FCA311;
+    color: #28427B; 
+}
+
+/*footer style*/
+.footer-custom{
+    background-color: #28427B; 
+    color: #E5E5E5;
+}
+
+/*last 5 blogs card style*/
+.card{
+    border-style: dashed;
+    border-color: #E5E5E5;
+    opacity: 0.5;
+}
+
+/*Blogs card style*/
+.card-custom{
+    border-style: dashed;
+    border-color: #E5E5E5;
+    text-overflow: ellipsis;  
+}
+
+/*Info card style*/
+.card-group{
+    width: 400px;
+    border-color: #E5E5E5;
+    color: #E5E5E5;
+    opacity: 0.8;
+}
+
+
+
